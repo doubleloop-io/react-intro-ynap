@@ -6,4 +6,4 @@ import App from "./views/app.js"
 
 console.log("Hello World!")
 
-ReactDOM.render(<App name="World" />, document.getElementById("app-container"))
+ReactDOM.render(<App name="YNAP" />, document.getElementById("app-container"))
